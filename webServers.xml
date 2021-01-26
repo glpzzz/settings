@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ca919d2d-8369-40a9-9f82-2ea351171012" name="tdj" url="http://www.truckdriverjobs411.com">
+        <fileTransfer rootFolder="/httpdocs" host="www.truckdriverjobs411.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
