@@ -13,9 +13,9 @@
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
     <mask>*.less</mask>
-    <mask>*.js</mask>
     <mask>*.tpl</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
