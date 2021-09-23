@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="eml" type="Native" />
-      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
     </extensionMap>
